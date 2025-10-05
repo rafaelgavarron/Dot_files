@@ -1,0 +1,4 @@
+alias vim=nvim
+alias update="sudo apt update"
+alias upgrade="sudo apt update ; sudo apt upgrade -y ; flatpak update -y || sudo flatpak update -y"
+alias shutdown="sudo shutdown now"
